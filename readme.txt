@@ -1,2 +1,2 @@
 Git is free software.
-test
+Git is free software.
